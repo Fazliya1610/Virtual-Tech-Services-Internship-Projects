@@ -9,6 +9,9 @@ As a part of my Machine Learning Internship at Virtual Tech Services, I have com
 - Sentiment Analysis with BERT
 - Siamese Neural Network using TensorFlow
 
+## Internship Details
+During my internship at Virtual Tech Services, I worked on a project titled **Natural Language Processing using Transformers** from 07.06.2024 to 17.06.2024.
+
 The major projects are:
 1. **Image Generation using NLP**
 2. **Sentiment Analysis with BERT**
